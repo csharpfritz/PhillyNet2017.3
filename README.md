@@ -10,10 +10,9 @@ Ask me anything notes from March 2017
 
 1.  Code Signing - can you use a tool or a post-build operation to sign code?
 
-
 1.  Can we still build deployment projects?
 Where and how do we do this now?
-
+[Microsoft Visual Studio 2017 Installer Projects](https://marketplace.visualstudio.com/items?itemName=VisualStudioProductTeam.MicrosoftVisualStudio2017InstallerProjects)
 
 1.  What is the smallest footprint on disk?
 600 MB with nothing else.  This gives base editing, work item management
